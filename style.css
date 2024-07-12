@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(155, 21, 238);
+}
+.form1{
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    margin-left: 550px;
+    margin-top: 70px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#img1{
+    width: 70px;
+    margin-top: 70px;
+}
+
+#lbl1{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: -35px;
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#inp1{
+    width: 300px;
+    height: 45px;
+    border-radius: 30px;
+    margin-top: 100px;
+    background-color: rgb(241, 237, 237);
+    border: none;
+    outline: none;
+}
+#inp1::placeholder{
+    position: absolute;
+    margin-left: 10px;
+    font-size: 14pt;
+    font-weight: bold;
+}
+#inp2{
+    width: 300px;
+    height: 45px;
+    border-radius: 30px;
+    margin-top: 40px;
+    background-color: rgb(241, 237, 237);
+    border: none;
+    outline: none;
+}
+#inp2::placeholder{
+    position: absolute;
+    margin-left: 10px;
+    font-size: 14pt;
+    font-weight: bold;
+}
+#btn{
+    width: 300px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 40px;
+    background-color: rgb(25, 242, 213);
+    border: none;
+    color: white;
+    font-size: 14pt;
+    font-weight: bold;
+}
+#lbl2{
+    font-size: 14pt;
+}
+#a1{
+    text-decoration: none;
+    font-size: 14pt;
+    color: black;
+}
